@@ -74,8 +74,9 @@ Meu objetivo &eacute; construir solu&ccedil;&otilde;es de impacto que combinem *
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/yago-silva-ads)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/yago-silva-ads)
 
 </div>
 
