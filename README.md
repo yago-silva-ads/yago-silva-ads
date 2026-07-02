@@ -73,13 +73,10 @@ Meu objetivo &eacute; construir solu&ccedil;&otilde;es de impacto que combinem *
 ## &#128202; GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/yago-silva-ads">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/yago-silva-ads">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
-  </a>
+<a href="https://github.com/yago-silva-ads"><img height="170" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/yago-silva-ads"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" /></a>
 </div>
+
 ---
 
 ## &#127942; Conquistas
@@ -106,5 +103,5 @@ Se voc&ecirc; chegou at&eacute; aqui, vamos conversar! Estou sempre em busca de 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
