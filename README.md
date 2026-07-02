@@ -4,7 +4,7 @@
 
 ### &#128640; Estudante de ADS no Senac | Desenvolvedor Full-Stack | Pesquisador em QA | Dados &amp; IA
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-santos-silva)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 [![Portfolio](https://img.shields.io/badge/-Portf&oacute;lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagosantossilva0@gmail.com)
 
@@ -49,7 +49,7 @@ Meu objetivo &eacute; construir solu&ccedil;&otilde;es de impacto que combinem *
 
 ### Dados &amp; BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](httMySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
@@ -84,26 +84,26 @@ Meu objetivo &eacute; construir solu&ccedil;&otilde;es de impacto que combinem *
 ## &#127942; Conquistas
 
 - &#127891; **Bolsista de Extens&atilde;o Universit&aacute;ria** &mdash; Centro Universit&aacute;rio Senac (2026)
-- - &#128300; **Pesquisador PICTA 2026** &mdash; Qualidade e Testes de Software
-  - - &#129302; **Google AI Essentials** &mdash; Certificado Google (2026)
-    - - &#9992;&#65039; **Ex-LATAM Airlines** &mdash; Assistente Administrativo em Seguran&ccedil;a Operacional
-     
-      - ---
+- &#128300; **Pesquisador PICTA 2026** &mdash; Qualidade e Testes de Software
+- &#129302; **Google AI Essentials** &mdash; Certificado Google (2026)
+- &#9992;&#65039; **Ex-LATAM Airlines** &mdash; Assistente Administrativo em Seguran&ccedil;a Operacional
 
-      ## &#128235; Vamos conectar?
+---
 
-      <div align="center">
+## &#128235; Vamos conectar?
 
-      &#128188; Aberto a oportunidades de **est&aacute;gio em Tecnologia &amp; Dados**
+<div align="center">
 
-      Se voc&ecirc; chegou at&eacute; aqui, vamos conversar! Estou sempre em busca de novos desafios e aprendizados.
+&#128188; Aberto a oportunidades de **est&aacute;gio em Tecnologia &amp; Dados**
 
-      [![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-santos-silva)
+Se voc&ecirc; chegou at&eacute; aqui, vamos conversar! Estou sempre em busca de novos desafios e aprendizados.
 
-      </div>
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 
-      ---
+</div>
 
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=blueviolet&style=flat-square" alt="Profile views" />
-      </div>div>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
