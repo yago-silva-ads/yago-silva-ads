@@ -73,11 +73,12 @@ Meu objetivo &eacute; construir solu&ccedil;&otilde;es de impacto que combinem *
 ## &#128202; GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats]https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true]https://github.com/yago-silva-ads
-
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/yago-silva-ads
-
+  <a href="https://github.com/yago-silva-ads">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/yago-silva-ads">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  </a>
 </div>
 ---
 
