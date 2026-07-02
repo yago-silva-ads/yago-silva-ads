@@ -1,4 +1,4 @@
-# Hello WorldOl# &#128075; Ol&aacute;! Eu sou o **Yago Santos Silva**
+# &#128075; Ol&aacute;! Eu sou o **Yago Santos Silva**
 
 <div align="center">
 
