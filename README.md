@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/github_banner.svg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/github_banner.svg?v=3" alt="Banner" width="100%" />
 
+# Yago Santos Silva
+### Estudante de ADS @ Senac | Pesquisador em Qualidade de Software (PICTA) | Dev Flutter, Java & Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
