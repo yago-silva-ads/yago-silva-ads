@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github_banner.svg" alt="Banner" width="100%" />
+  <img src="./github_banner.svg" alt="Banner" width="100%" 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
