@@ -170,7 +170,6 @@ Landing page com catálogo, WhatsApp integrado, responsivo. **Entregue para loja
 
 <div align="center">
 
-  [![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984370338)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 
   <br>
