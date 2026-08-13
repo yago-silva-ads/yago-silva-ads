@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./github_banner.svg" alt="Banner" width="100%" 
-
+  <img src="./github_banner.svg" alt="Banner" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
@@ -79,6 +78,23 @@ Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)*
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📚 Estudando & Evoluindo Atualmente
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+> 💡 *A faculdade te dá o mapa, mas quem estuda por fora já chega com a estrada percorrida. Os cursos da DIO, bootcamps e documentação oficial me deram base pra acompanhar o 3º semestre sem dificuldade — quando o conteúdo chega na aula, já tenho contexto e absorvo 10x mais rápido.*
 
 <br>
 
