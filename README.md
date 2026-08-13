@@ -155,15 +155,6 @@ Landing page com catálogo, WhatsApp integrado, responsivo. **Entregue para loja
 
 ---
 
-<h2>📊 Stats</h2>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&ring_color=8b5cf6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
-</div>
-
----
-
 <h2>🎓 Background</h2>
 
 ```
