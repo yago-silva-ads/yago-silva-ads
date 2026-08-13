@@ -1,106 +1,104 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#080808;stop-opacity:1" />
-      <stop offset="30%" style="stop-color:#0a0a0f;stop-opacity:1" />
-      <stop offset="60%" style="stop-color:#0d0d14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#060609;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050505"/>
+      <stop offset="50%" style="stop-color:#0a0a12"/>
+      <stop offset="100%" style="stop-color:#050508"/>
     </linearGradient>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2a2a3a;stop-opacity:0.5" />
-      <stop offset="50%" style="stop-color:#3d3d50;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#2a2a3a;stop-opacity:0.5" />
+    <linearGradient id="gridLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:0"/>
     </linearGradient>
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1a1a28;stop-opacity:0.6" />
-      <stop offset="50%" style="stop-color:#252535;stop-opacity:0.4" />
-      <stop offset="100%" style="stop-color:#1a1a28;stop-opacity:0.6" />
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#8b5cf6;stop-opacity:0.7"/>
+      <stop offset="70%" style="stop-color:#6366f1;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0"/>
     </linearGradient>
-    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#12121c;stop-opacity:0.5" />
-      <stop offset="50%" style="stop-color:#1e1e2e;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#12121c;stop-opacity:0.5" />
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6b7280;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#9ca3af;stop-opacity:0.4" />
-      <stop offset="100%" style="stop-color:#6b7280;stop-opacity:0" />
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0%" style="stop-color:#4b5563;stop-opacity:0.15" />
-      <stop offset="100%" style="stop-color:#4b5563;stop-opacity:0" />
+    <radialGradient id="glow1" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0"/>
     </radialGradient>
-    <radialGradient id="starGlow">
-      <stop offset="0%" style="stop-color:#e5e7eb;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e5e7eb;stop-opacity:0" />
+    <radialGradient id="glow2" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
     </radialGradient>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
   
   <style>
-    @keyframes wave1 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-35px); } }
-    @keyframes wave2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(30px); } }
-    @keyframes wave3 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-20px); } }
-    @keyframes twinkle1 { 0%,100% { opacity: 0.2; } 50% { opacity: 1; } }
-    @keyframes twinkle2 { 0%,100% { opacity: 0.6; } 50% { opacity: 0.1; } }
-    @keyframes twinkle3 { 0%,100% { opacity: 0.1; } 30% { opacity: 0.8; } 70% { opacity: 0.3; } }
-    @keyframes drift { 0%,100% { transform: translateY(0) translateX(0); } 50% { transform: translateY(-2px) translateX(1px); } }
-    @keyframes pulse { 0%,100% { opacity: 0.15; } 50% { opacity: 0.3; } }
-    @keyframes lineMove { 0% { stroke-dashoffset: 800; } 100% { stroke-dashoffset: 0; } }
-    .w1 { animation: wave1 9s ease-in-out infinite; }
-    .w2 { animation: wave2 7s ease-in-out infinite; }
-    .w3 { animation: wave3 11s ease-in-out infinite; }
-    .t1 { animation: twinkle1 3s ease-in-out infinite; }
-    .t2 { animation: twinkle2 4s ease-in-out infinite; }
-    .t3 { animation: twinkle3 5s ease-in-out infinite; }
-    .t4 { animation: twinkle1 3.5s ease-in-out infinite; }
-    .t5 { animation: twinkle2 4.5s ease-in-out infinite; }
-    .t6 { animation: twinkle3 6s ease-in-out infinite; }
-    .t7 { animation: twinkle1 2.8s ease-in-out infinite; }
-    .t8 { animation: twinkle2 5.5s ease-in-out infinite; }
-    .drift1 { animation: drift 8s ease-in-out infinite; }
-    .glow-bg { animation: pulse 5s ease-in-out infinite; }
-    .accent-line { stroke-dasharray: 150; animation: lineMove 15s linear infinite; }
+    @keyframes pulse1{0%,100%{opacity:.15}50%{opacity:.5}}
+    @keyframes pulse2{0%,100%{opacity:.3}50%{opacity:.1}}
+    @keyframes pulse3{0%,100%{opacity:.1}50%{opacity:.7}}
+    @keyframes scanline{0%{transform:translateY(-220px)}100%{transform:translateY(220px)}}
+    @keyframes dash{0%{stroke-dashoffset:1000}100%{stroke-dashoffset:0}}
+    @keyframes orbit{0%{transform:rotate(0deg) translateX(60px) rotate(0deg)}100%{transform:rotate(360deg) translateX(60px) rotate(-360deg)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    .p1{animation:pulse1 3s ease-in-out infinite}
+    .p2{animation:pulse2 4.5s ease-in-out infinite}
+    .p3{animation:pulse3 5s ease-in-out infinite}
+    .p4{animation:pulse1 3.8s ease-in-out infinite}
+    .p5{animation:pulse2 2.5s ease-in-out infinite}
+    .p6{animation:pulse3 6s ease-in-out infinite}
+    .scanline{animation:scanline 8s linear infinite;opacity:0.03}
+    .dash-anim{stroke-dasharray:200;animation:dash 20s linear infinite}
+    .float{animation:float 6s ease-in-out infinite}
   </style>
   
-  <!-- Deep black background -->
-  <rect width="800" height="200" fill="url(#bgGrad)"/>
+  <!-- Deep black bg -->
+  <rect width="800" height="220" fill="url(#bg)"/>
   
-  <!-- Subtle ambient glow -->
-  <ellipse cx="400" cy="90" rx="250" ry="70" fill="url(#glow)" class="glow-bg"/>
-  
-  <!-- Stars / space particles -->
-  <circle class="t1" cx="45" cy="30" r="1" fill="#d1d5db"/>
-  <circle class="t2" cx="120" cy="70" r="0.7" fill="#9ca3af"/>
-  <circle class="t3" cx="190" cy="25" r="1.2" fill="#e5e7eb"/>
-  <circle class="t4" cx="280" cy="55" r="0.8" fill="#d1d5db"/>
-  <circle class="t5" cx="350" cy="18" r="0.6" fill="#9ca3af"/>
-  <circle class="t6" cx="460" cy="40" r="1" fill="#e5e7eb"/>
-  <circle class="t7" cx="530" cy="22" r="0.7" fill="#d1d5db"/>
-  <circle class="t8" cx="600" cy="60" r="1.1" fill="#9ca3af"/>
-  <circle class="t1" cx="670" cy="28" r="0.8" fill="#e5e7eb"/>
-  <circle class="t3" cx="730" cy="50" r="0.6" fill="#d1d5db"/>
-  <circle class="t5" cx="760" cy="75" r="0.9" fill="#9ca3af"/>
-  <circle class="t2" cx="95" cy="95" r="0.5" fill="#6b7280"/>
-  <circle class="t6" cx="700" cy="95" r="0.6" fill="#6b7280"/>
-  <circle class="t4" cx="400" cy="150" r="0.5" fill="#4b5563"/>
-  
-  <!-- Animated mercury accent line -->
-  <path class="accent-line" d="M0,135 Q200,125 400,135 Q600,145 800,133" fill="none" stroke="url(#lineGrad)" stroke-width="0.8"/>
-  
-  <!-- Waves (dark, subtle, mercury-like) -->
-  <g class="w3">
-    <path d="M-100,158 C0,148 100,168 200,155 C300,142 400,162 500,150 C600,138 700,158 800,145 C900,132 1000,152 1100,140 L1100,200 L-100,200 Z" fill="url(#wave3)"/>
-  </g>
-  <g class="w1 drift1">
-    <path d="M-100,168 C50,155 150,178 250,163 C350,148 450,172 550,158 C650,144 750,168 850,155 C950,142 1050,162 1100,153 L1100,200 L-100,200 Z" fill="url(#wave1)"/>
-  </g>
-  <g class="w2">
-    <path d="M-100,180 C80,170 180,190 280,177 C380,164 480,185 580,173 C680,161 780,180 880,170 C950,162 1050,178 1100,172 L1100,200 L-100,200 Z" fill="url(#wave2)"/>
+  <!-- Perspective grid (subtle) -->
+  <g opacity="0.15">
+    <line x1="0" y1="180" x2="800" y2="180" stroke="#1a1a2e" stroke-width="0.5"/>
+    <line x1="0" y1="195" x2="800" y2="195" stroke="#1a1a2e" stroke-width="0.3"/>
+    <line x1="0" y1="205" x2="800" y2="205" stroke="#1a1a2e" stroke-width="0.2"/>
+    <line x1="200" y1="160" x2="200" y2="220" stroke="#1a1a2e" stroke-width="0.3"/>
+    <line x1="400" y1="160" x2="400" y2="220" stroke="#1a1a2e" stroke-width="0.3"/>
+    <line x1="600" y1="160" x2="600" y2="220" stroke="#1a1a2e" stroke-width="0.3"/>
   </g>
   
-  <!-- Name — clean white -->
-  <text x="400" y="80" font-family="Segoe UI, -apple-system, sans-serif" font-size="30" font-weight="600" fill="#f9fafb" text-anchor="middle" letter-spacing="1">Yago Santos Silva</text>
+  <!-- Ambient glows -->
+  <ellipse cx="300" cy="100" rx="200" ry="100" fill="url(#glow1)"/>
+  <ellipse cx="550" cy="120" rx="150" ry="80" fill="url(#glow2)"/>
   
-  <!-- Subtitle — silver/mercury -->
-  <text x="400" y="110" font-family="Segoe UI, -apple-system, sans-serif" font-size="12" fill="#9ca3af" text-anchor="middle" letter-spacing="0.5">Estudante de ADS @ Senac  ·  Dev Java, Python &amp; Flutter  ·  Pesquisador PICTA</text>
+  <!-- Scanline effect -->
+  <rect class="scanline" x="0" y="0" width="800" height="2" fill="#ffffff"/>
+  
+  <!-- Accent line animated -->
+  <path class="dash-anim" d="M100,155 Q250,145 400,155 Q550,165 700,150" fill="none" stroke="url(#accentLine)" stroke-width="1.5"/>
+  
+  <!-- Stars / particles (various animations) -->
+  <circle class="p1" cx="55" cy="35" r="1.2" fill="#e2e8f0"/>
+  <circle class="p2" cx="130" cy="80" r="0.8" fill="#94a3b8"/>
+  <circle class="p3" cx="210" cy="28" r="1.5" fill="#c4b5fd"/>
+  <circle class="p4" cx="320" cy="50" r="0.7" fill="#e2e8f0"/>
+  <circle class="p5" cx="440" cy="30" r="1.1" fill="#67e8f9"/>
+  <circle class="p6" cx="520" cy="65" r="0.9" fill="#c4b5fd"/>
+  <circle class="p1" cx="590" cy="25" r="1.3" fill="#e2e8f0"/>
+  <circle class="p3" cx="670" cy="55" r="0.8" fill="#94a3b8"/>
+  <circle class="p2" cx="740" cy="35" r="1.0" fill="#67e8f9"/>
+  <circle class="p5" cx="95" cy="130" r="0.6" fill="#4b5563"/>
+  <circle class="p4" cx="710" cy="120" r="0.7" fill="#4b5563"/>
+  <circle class="p6" cx="380" cy="20" r="0.5" fill="#a78bfa"/>
+  
+  <!-- Decorative brackets -->
+  <text x="120" y="103" font-family="JetBrains Mono, monospace" font-size="28" fill="#374151" opacity="0.3">{</text>
+  <text x="665" y="103" font-family="JetBrains Mono, monospace" font-size="28" fill="#374151" opacity="0.3">}</text>
+  
+  <!-- Name -->
+  <text class="float" x="400" y="85" font-family="Segoe UI, -apple-system, sans-serif" font-size="32" font-weight="700" fill="#f8fafc" text-anchor="middle" letter-spacing="1.5" filter="url(#textGlow)">Yago Santos Silva</text>
+  
+  <!-- Subtitle with code style -->
+  <text x="400" y="118" font-family="JetBrains Mono, Fira Code, monospace" font-size="11" fill="#8b5cf6" text-anchor="middle" opacity="0.9">const dev = { java, python, flutter, spring_boot }</text>
+  
+  <!-- Role -->
+  <text x="400" y="140" font-family="Segoe UI, -apple-system, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="2">ADS @ SENAC  ·  PESQUISADOR PICTA  ·  OPEN TO WORK</text>
+  
+  <!-- Bottom accent bar -->
+  <rect x="250" y="210" width="300" height="1" fill="url(#accentLine)" opacity="0.5"/>
 </svg>
