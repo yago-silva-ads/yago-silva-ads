@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/github_banner.svg?v=3" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/banner.svg" alt="Banner" width="100%" />
 
 # Yago Santos Silva
 ### Estudante de ADS @ Senac | Pesquisador em Qualidade de Software (PICTA) | Dev Flutter, Java & Python
