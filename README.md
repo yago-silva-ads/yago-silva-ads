@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Yago Santos Silva — Dev Java, Python & Flutter" width="100%" />
+  
 
   <br><br>
 
