@@ -1,176 +1,184 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/github_banner.svg" alt="Banner" width="100%" />
 
-<!-- BANNER PRINCIPAL SVG ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c3fa0,3a0ca3&height=200&section=header&text=Yago%20Santos%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Dev%20Java%20%7C%20Python%20%7C%20Flutter%20%7C%20QA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- BADGES DE CONTATO -->
-<br/>
+# Yago Santos Silva
+### Estudante de ADS @ Senac | Pesquisador em Qualidade de Software (PICTA) | Dev Flutter, Java & Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
-[![Portfólio](https://img.shields.io/badge/Portfólio-6c3fa0?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagosantossilva0@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagosantossilva0@gmail.com)
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=6c3fa0&style=for-the-badge&label=Visualizações" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=yago-silva-ads&color=6c3fa0&style=flat-square&label=Profile+Views" />
+<br>
 
-<br/><br/>
-
-<!-- STATUS BADGE ANIMADO -->
-![Status](https://img.shields.io/badge/🟢%20Disponível%20para-Estágio%20ou%20Júnior-6c3fa0?style=for-the-badge)
+**🟢 Aberto a oportunidades de Estágio ou Júnior (Dev Java / Python / Flutter / QA)**
 
 </div>
 
----
+<br>
 
 ## 👋 Sobre Mim
 
-```yaml
-Nome:       Yago Santos Silva
-Formação:   ADS — Senac (3º semestre | Previsão: 12/2027)
-Foco:       Backend (Java/Spring) · Mobile (Flutter) · Automação (Python)
-Local:      Guarulhos, SP — aceito SP Capital, Grande SP ou Remoto
-Status:     Aberto a oportunidades (Estágio / Júnior)
-```
+Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Senac. Concentro meus estudos e prática em desenvolvimento de software (Java, Python e Flutter), automação e testes de acessibilidade digital.
 
----
+* 🔬 **Iniciação Científica (PICTA 2026):** Pesquisa focada no diagnóstico de acessibilidade em interfaces de Smart Home (Home Assistant, openHAB, SharpTools), comparando ferramentas de auditoria automatizada (*Axe DevTools, Lighthouse, WAVE*) com validação empírica manual via leitor de tela (*NVDA*) sob as diretrizes **WCAG 2.2** e **eMAG 3.1**.
+* 📱 **Extensão Universitária (App CIC):** Desenvolvimento do aplicativo mobile em **Flutter/Dart** focado na rastreabilidade de produtos no varejo com padronização **GS1** (*GTIN-13* e *QR Code 2D*).
+* 💼 **Maturidade Profissional:** Vivência anterior em operações corporativas de empresas como **LATAM Airlines, Nike e Rappi**, trazendo visão prática de governança, conformidade (compliance) e disciplina em processos.
 
-## 🔬 O Que Estou Fazendo Agora
+<br>
 
-<!-- BANNER SEÇÃO PESQUISA -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3a0ca3,6c3fa0&height=3&section=header" width="100%"/>
+## 🛠️ Stack Técnica & Ferramentas
 
-> **Iniciação Científica (PICTA 2026)** — Pesquisa sobre acessibilidade em Smart Homes (Home Assistant, openHAB, SharpTools). Comparação entre ferramentas automatizadas (Axe DevTools, Lighthouse, WAVE) e validação manual com NVDA sob WCAG 2.2 e eMAG 3.1.
+<table>
+<tr>
+<td valign="top" width="22%"><strong>Linguagens</strong></td>
+<td>
 
-> **Extensão Universitária — App CIC** — App Flutter/Dart de rastreabilidade no varejo com padronização GS1 (GTIN-13 e QR Code 2D) + Google Gemini AI + Supabase.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> **Experiência Corporativa** — Vivência em LATAM Airlines, Nike e Rappi: governança, compliance e disciplina operacional na prática.
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frameworks & Libs</strong></td>
+<td>
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🛠️ Stack Técnica
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Qualidade & Acessibilidade</strong></td>
+<td>
 
-<!-- BANNER SKILLS -->
+![WCAG 2.2](https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logo=w3c&logoColor=white)
+![Axe DevTools](https://img.shields.io/badge/Axe_DevTools-4A154B?style=flat-square&logo=deque&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=googlechrome&logoColor=white)
+![NVDA](https://img.shields.io/badge/NVDA_ScreenReader-20B2AA?style=flat-square&logo=accessity&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Bancos & DevOps</strong></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📚 Estudando & Evoluindo Atualmente
+
 <div align="center">
 
-### ☕ Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Frameworks & Ferramentas
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### ♿ Qualidade & Acessibilidade
-
-![WCAG 2.2](https://img.shields.io/badge/WCAG_2.2-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![Axe DevTools](https://img.shields.io/badge/Axe_DevTools-4A154B?style=for-the-badge&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-### 🗄️ Infra & DevOps
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-## 📚 Estudando & Evoluindo
-
-<div align="center">
-
-<!-- BANNER APRENDIZADO COM ANIMAÇÃO -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6c3fa0,3a0ca3&height=80&section=header&text=Em%20Evolução%20Constante&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<br/>
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
----
+> 💡 *A faculdade te dá o mapa. Quem estuda por fora já chega com a estrada percorrida. Bootcamps da DIO + documentação oficial me deram base pra acompanhar o 3º semestre sem travar — quando o conteúdo chega na aula, já tenho contexto e absorvo 10x mais rápido.*
 
-## 🚀 Projetos em Destaque
+<br>
 
-<!-- BANNER PROJETOS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=🚀%20Projetos%20em%20Destaque&fontSize=18&fontColor=ffffff" width="100%"/>
+## 🚀 Projetos Reais & Portfólio
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 📱 **[App CIC](https://github.com/yago-silva-ads/app-cic)** | Rastreabilidade no varejo com IA preditiva (Extensão) | `Flutter` `Gemini AI` `Supabase` |
-| 🤖 **[Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)** | Bot com 10 scrapers, NLP, anti-duplicação e alertas Discord | `Python` `Playwright` `SQLite` |
-| 💰 **[Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)** | SaaS de controle financeiro com dashboard interativo | `Java` `Spring Boot` `Angular` |
-| 🔐 **[Bootcamp Santander](https://github.com/yago-silva-ads/bootcamp-santander-dio-backend)** | 4 projetos: Clean Arch, Multi-DB, GoF, Spring Security 6 + RBAC | `Java` `Spring` `Docker` |
-| 💊 **[Gestão Farmacêutica](https://github.com/yago-silva-ads/gestao-farmaceutica-angular)** | SPA de controle de inventário com formulários reativos | `Angular` `TypeScript` |
-| 🏎️ **[Dashboard Porsche](https://github.com/yago-silva-ads/dashboard_porshe_sales)** | Painel de análise de vendas com gráficos dinâmicos | `JavaScript` `Chart.js` |
+### 📱 [App CIC (Projeto Extensão)](https://github.com/yago-silva-ads/app-cic)
+Aplicativo mobile para rastreabilidade no varejo utilizando padronização global GS1 (*GTIN-13* e *QR Code 2D*).
 
----
+`Flutter` `Dart` `GS1` `Firebase`
 
-## 📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🎯 [Caçador de Vagas Automatizado](https://github.com/yago-silva-ads/cacador-de-vagas)
+Pipeline em Python que raspa vagas tech, aplica pontuação de relevância, evita duplicatas com SQLite e envia alertas no Discord.
 
-<!-- STATS CARDS -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c3fa0&icon_color=6c3fa0&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c3fa0&text_color=c9d1d9" />
+`Python` `SQLite` `BeautifulSoup` `GitHub Actions`
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=yago-silva-ads&theme=tokyonight&hide_border=true&background=0d1117&ring=6c3fa0&fire=ff6b6b&currStreakLabel=6c3fa0" />
+### 💈 [Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)
+Plataforma web para gestão de barbearias, com dashboards de acompanhamento financeiro e agendamento.
 
-</div>
+`Angular` `TypeScript` `Chart.js`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Formação & Certificações
+### 💊 [Gestão Farmacêutica](https://github.com/yago-silva-ads/gestao-farmaceutica-angular)
+Aplicação SPA para controle e gestão de inventário farmacêutico com formulários reativos.
 
-<div align="center">
+`Angular` `TypeScript` `JSON Server`
 
-<!-- BANNER FORMAÇÃO -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,6c3fa0&height=60&section=header&text=Formação%20%26%20Certificações&fontSize=20&fontColor=ffffff" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 📦 [Gerenciamento de Estoque](https://github.com/yago-silva-ads/GerenciamentoDeEstoque)
+Sistema de controle de estoque em console para simulação de fluxos de entrada e saída.
 
-<br/>
+`Java` `MySQL` `JDBC`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ [Dashboard Porsche Sales](https://github.com/yago-silva-ads/dashboard_porshe_sales)
+Painel de análise visual de vendas utilizando gráficos dinâmicos.
+
+`HTML5` `JavaScript` `Chart.js`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎓 Formação & Certificações Reais
 
 | | |
-|:---:|---|
-| 🎓 | **ADS — Senac** *(3º semestre, previsão 12/2027)* |
-| 🔬 | **PICTA 2026** — Testes de Acessibilidade em Smart Homes |
-| 📱 | **App CIC** — Bolsista de Extensão (Rastreabilidade GS1) |
+|---|---|
+| 🎓 | **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** — Centro Universitário Senac *(Previsão: 2027)* |
+| 🔬 | **Pesquisador de Iniciação Científica (PICTA 2026)** — Testes de Acessibilidade em Smart Homes *(Orientação: Profª Claudia Bianchi Progetti)* |
+| 📱 | **Bolsista de Extensão Universitária (App CIC)** — Rastreabilidade no Varejo com Padrões GS1 |
 | 🤖 | **Google AI Essentials** — Certificação Google (2026) |
-| 🏅 | **DIO** — Spring Security, API REST, Design Patterns GoF, SOLID, JDBC, IA |
-| ✈️ | **LATAM Airlines** — Assistente Administrativo (2024) |
+| ✈️ | **Ex-LATAM Airlines** — Assistente Administrativo / Segurança Operacional |
 
----
+<br>
 
-<!-- BANNER FINAL / FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c3fa0,3a0ca3&height=120&section=footer&text=Vamos%20construir%20algo%20juntos%3F&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+## 💬 Contato & Conexões
 
-[![LinkedIn](https://img.shields.io/badge/Me%20encontre%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagosantossilva0@gmail.com)
 
 </div>

@@ -1,0 +1,71 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6c3fa0;stop-opacity:0.7" />
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:0.5" />
+      <stop offset="100%" style="stop-color:#6c3fa0;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4a2c7a;stop-opacity:0.5" />
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#4a2c7a;stop-opacity:0.5" />
+    </linearGradient>
+    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2d1b4e;stop-opacity:0.4" />
+      <stop offset="50%" style="stop-color:#5b21b6;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#2d1b4e;stop-opacity:0.4" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    @keyframes wave1 {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-50px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes wave2 {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(40px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes wave3 {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-30px); }
+      100% { transform: translateX(0); }
+    }
+    .w1 { animation: wave1 7s ease-in-out infinite; }
+    .w2 { animation: wave2 5s ease-in-out infinite; }
+    .w3 { animation: wave3 9s ease-in-out infinite; }
+    
+    @keyframes fadeText {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.85; }
+    }
+    .title { animation: fadeText 4s ease-in-out infinite; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGrad)"/>
+  
+  <!-- Animated waves -->
+  <g class="w3">
+    <path d="M-100,120 C0,100 100,150 200,120 C300,90 400,140 500,110 C600,80 700,130 800,100 C900,70 1000,120 1100,90 L1100,200 L-100,200 Z" fill="url(#wave3)"/>
+  </g>
+  <g class="w1">
+    <path d="M-100,140 C0,120 80,160 200,135 C320,110 400,155 500,130 C600,105 720,150 800,125 C880,100 960,145 1100,120 L1100,200 L-100,200 Z" fill="url(#wave1)"/>
+  </g>
+  <g class="w2">
+    <path d="M-100,160 C50,145 150,175 250,155 C350,135 450,170 550,150 C650,130 750,165 850,145 C950,125 1050,160 1100,150 L1100,200 L-100,200 Z" fill="url(#wave2)"/>
+  </g>
+  
+  <!-- Name -->
+  <text class="title" x="400" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">Yago Santos Silva</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c4b5fd" text-anchor="middle">Estudante de ADS @ Senac  •  Dev Java, Python &amp; Flutter  •  Pesquisador PICTA</text>
+</svg>
