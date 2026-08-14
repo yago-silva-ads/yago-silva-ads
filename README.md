@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Yago%20Santos%20Silva&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=Desenvolvedor%20%26%20Empreendedor%20%7C%20Java%20%C2%B7%20Python%20%C2%B7%20Flutter&descSize=14&descColor=8b5cf6&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Yago+Santos+Silva&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=Dev+Java+|+Python+|+Flutter+|+Empreendedor&descSize=14&descColor=8b5cf6&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Construo+produtos+que+geram+receita;Apps+sob+demanda+%7C+Automa%C3%A7%C3%B5es+%7C+IA;Open+to+work+%E2%80%94+Freelance+%C2%B7+Parcerias+%C2%B7+Clientes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Construo+produtos+que+geram+receita;Apps+sob+demanda+%7C+Automacoes+%7C+IA;Open+to+work+--+Freelance+|+Parcerias+|+Clientes)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
@@ -11,8 +11,6 @@
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
 
 <h2 align="center">💼 O que eu faço</h2>
 
