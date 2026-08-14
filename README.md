@@ -75,7 +75,7 @@
 | | Projeto | O que é | Tech |
 |:---:|:---|:---|:---:|
 | 🎯 | **[Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)** | Bot com 10 scrapers + CV gerado por IA. Produção diária | `Python` `Gemini` |
-| 📱 | **[App CIC](https://github.com/yago-silva-ads/app-cic)** | Rastreabilidade com IA preditiva. Pesquisa PICTA | `Flutter` `Supabase` |
+| 📱 | **[App CIC](https://github.com/yago-silva-ads/app-cic)** | Rastreabilidade com IA preditiva.  | `Flutter` `Supabase` |
 | 💰 | **[Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)** | SaaS financeiro com dashboard | `Spring` `Angular` |
 | 🏪 | **[Porto House](https://porto-house-acabamentos.vercel.app)** | Site entregue pra cliente real | `Tailwind` `Vercel` |
 
