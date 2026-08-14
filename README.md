@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/banner.svg?v=6" alt="Yago Santos Silva" width="100%" />
+  <img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/banner.svg?v=7" alt="Yago Santos Silva" width="100%" />
 </div>
 
 <div align="center">
@@ -10,6 +10,8 @@
   [![Views](https://komarev.com/ghpvc/?username=yago-silva-ads&color=1a1a2e&style=flat-square&label=)](https://github.com/yago-silva-ads)
 
 </div>
+
+<div align="center">
 
 ```javascript
 // Yago Santos Silva — o que eu faço?
@@ -24,9 +26,11 @@ const yago = {
 };
 ```
 
+</div>
+
 ---
 
-<h2>💼 Aberto pra Negócios</h2>
+<h2 align="center">💼 Aberto pra Negócios</h2>
 
 <div align="center">
 
@@ -34,10 +38,8 @@ const yago = {
 🟢  DISPONÍVEL PARA PROJETOS
 ```
 
-</div>
-
 | O que eu entrego | Como |
-|-----------------|------|
+|:---:|:---:|
 | 🚀 **Apps mobile** | Flutter + Dart + Firebase/Supabase |
 | ⚙️ **Automações & Bots** | Python + Playwright + IA (Gemini/GPT) |
 | 🌐 **Sites & Landing Pages** | Tailwind, Vercel, alta conversão |
@@ -48,114 +50,57 @@ const yago = {
 > **Não vendo hora. Vendo solução.**
 > Me conta o problema → eu construo a ferramenta.
 
----
-
-<h2>🧬 Stack</h2>
-
-<table>
-<tr><td><b>Backend</b></td><td>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-
-</td></tr>
-<tr><td><b>Frontend & Mobile</b></td><td>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td></tr>
-<tr><td><b>IA & Automação</b></td><td>
-
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-</td></tr>
-<tr><td><b>Infra</b></td><td>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td></tr>
-</table>
+</div>
 
 ---
 
-<h2>📡 Estudando & Próximos movimentos</h2>
+<h2 align="center">🧬 Stack</h2>
+
+<div align="center">
+
+| Backend | Frontend & Mobile | IA & Automação | Infra |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+
+</div>
+
+---
+
+<h2 align="center">📡 Estudando & Próximos movimentos</h2>
 
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
 ---
 
-<h2>🚀 Produtos & Cases</h2>
+<h2 align="center">🚀 Produtos & Cases</h2>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<h3 align="center">🎯 Caçador de Vagas</h3>
-<p align="center"><i>Bot com IA em produção diária</i></p>
+| Projeto | Descrição | Stack |
+|:---:|:---|:---:|
+| 🎯 **[Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)** | Bot com 10 scrapers, NLP, CV gerado por IA. Em produção 4x/dia | `Python` `Playwright` `Gemini` |
+| 📱 **[App CIC](https://github.com/yago-silva-ads/app-cic)** | App de rastreabilidade com IA preditiva. Pesquisa PICTA | `Flutter` `Gemini AI` `Supabase` |
+| 💰 **[Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)** | SaaS financeiro com dashboard interativo | `Java` `Spring Boot` `Angular` |
+| 🏪 **[Porto House](https://porto-house-acabamentos.vercel.app)** | Site entregue para cliente real em Guarulhos | `Tailwind` `Vercel` |
 
-10 scrapers, NLP scoring, geofencing, anti-duplicação e **CV gerado por IA personalizado por vaga**. Roda automatizado 4x/dia.
-
-[![Repo](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github)](https://github.com/yago-silva-ads/cacador-de-vagas)
-
-</td>
-<td width="50%">
-
-<h3 align="center">📱 App CIC</h3>
-<p align="center"><i>Flutter + Gemini AI + Supabase</i></p>
-
-App de rastreabilidade no varejo com IA preditiva, leitura de código de barras (GS1) e alertas inteligentes. **Pesquisa científica PICTA.**
-
-[![Repo](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github)](https://github.com/yago-silva-ads/app-cic)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">💰 Sistema Milhão</h3>
-<p align="center"><i>SaaS Financeiro</i></p>
-
-Java/Spring Boot + Angular. REST API, JWT auth, dashboard interativo. **Modelo SaaS com potencial de monetização.**
-
-[![Repo](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github)](https://github.com/yago-silva-ads/sistema-milhao)
-
-</td>
-<td width="50%">
-
-<h3 align="center">🏪 Porto House Site</h3>
-<p align="center"><i>Site para cliente real</i></p>
-
-Landing page com catálogo, WhatsApp integrado, responsivo. **Entregue para loja física em Guarulhos.** Deploy Vercel.
-
-[![Live](https://img.shields.io/badge/Ver_site-000?style=flat-square&logo=vercel)](https://porto-house-acabamentos.vercel.app)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h2>🎓 Background</h2>
+<h2 align="center">🎓 Background</h2>
+
+<div align="center">
 
 ```
 🎓  ADS — Centro Universitário Senac (3º semestre · 2027)
@@ -166,11 +111,13 @@ Landing page com catálogo, WhatsApp integrado, responsivo. **Entregue para loja
 💼  Cliente atendido: Porto House (site entregue)
 ```
 
+</div>
+
 ---
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+  [![LinkedIn](https://img.shields.io/badge/Vamos_conversar%3F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
 
   <br>
 
