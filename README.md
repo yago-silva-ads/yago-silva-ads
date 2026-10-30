@@ -83,6 +83,25 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats & Troféus</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=f8fafc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=f8fafc&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yago-silva-ads&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&dates=8b5cf6" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yago-silva-ads&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=12&column=7" />
+
+</div>
+
+---
+
 <h2 align="center">🎓 Background</h2>
 
 <div align="center">
