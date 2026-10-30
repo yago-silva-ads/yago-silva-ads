@@ -1,134 +1,248 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Yago+Santos+Silva&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=Dev+Java+|+Python+|+Flutter+|+Empreendedor&descSize=14&descColor=8b5cf6&descAlignY=55&animation=fadeIn" />
+<!-- HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:17132b,100:0d1117&height=210&section=header&text=YAGO%20SANTOS%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%2F%20CREATIVE%20DEVELOPMENT&descSize=13&descColor=a78bfa&descAlignY=57&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Construo+produtos+que+geram+receita;Apps+sob+demanda+%7C+Automacoes+%7C+IA;Open+to+work+--+Freelance+|+Parcerias+|+Clientes)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Python+%7C+Java+%7C+Flutter;UI%2FUX+Design+%7C+Design+Systems;Exploring+3D+Web+%26+Creative+Coding" alt="Animated introduction" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
-[![Email](https://img.shields.io/badge/-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagosantossilva0@gmail.com)
+<br/>
+
+**Software Development · UI/UX · Creative Technology**
+
+Construindo experiências digitais que unem engenharia, estética e funcionalidade.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/yago-silva-ads)
+[![Contact](https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:yagosantossilva0@gmail.com)
 
 </div>
 
 ---
 
-<h2 align="center">💼 O que eu faço</h2>
+<h2 align="center">01 / About Me</h2>
+
+<div align="center">
+  
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, explorando a interseção entre **engenharia de software, design de interfaces e experiências digitais**.
+
+</div>
+
+Meu foco é desenvolver produtos digitais que combinem código bem estruturado, interfaces intuitivas e experiências visualmente marcantes.
+
+- Desenvolvimento de aplicações com Java, Python e Flutter.
+- Exploração de UI/UX, prototipação e design systems.
+- Interesse em interfaces 3D, visualização interativa e creative coding.
+- Pesquisa científica em acessibilidade digital para Smart Homes.
+- Desenvolvimento de automações, integrações e ferramentas com IA.
+
+---
+
+<h2 align="center">02 / Creative Technology</h2>
 
 <div align="center">
 
-| Serviço | Tecnologia |
-|:---:|:---:|
-| 📱 **Apps Mobile** | Flutter · Dart · Supabase |
-| ⚙️ **Automações & Bots** | Python · Playwright · Gemini AI |
-| 🌐 **Sites & Landing Pages** | Tailwind · Vercel · Responsivo |
-| 🔧 **Sistemas Web** | Java · Spring Boot · Angular |
-| 🤖 **Soluções com IA** | Gemini · NLP · Automação inteligente |
-| 📊 **Dashboards** | Power BI · Chart.js · Dados |
+| Área | Foco |
+|:---|:---|
+| UI/UX Design | Usabilidade, hierarquia visual e experiência do usuário |
+| Interface Design | Layouts, tipografia, grids e composição visual |
+| Design Systems | Componentes reutilizáveis, consistência e tokens |
+| 3D & Web Experiences | Exploração de ambientes 3D e interfaces imersivas |
+| Motion & Interaction | Microinterações, transições e feedback visual |
+| Creative Development | Experiências visuais construídas com código |
+| Accessibility | Interfaces inclusivas e padrões de acessibilidade |
 
-<br>
+</div>
 
-> *"Não vendo hora. Vendo solução. Me conta o problema → eu construo a ferramenta."*
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+![Spline](https://img.shields.io/badge/Spline-0d1117?style=for-the-badge&logo=spline&logoColor=a78bfa)
+![Framer](https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=ffffff)
+
+<sub>Ferramentas de interesse e exploração em design, 3D e experiências interativas.</sub>
 
 </div>
 
 ---
 
-<h2 align="center">🧬 Tecnologias</h2>
+<h2 align="center">03 / Engineering Stack</h2>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+**Languages & Backend**
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Frontend & Mobile**
+
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+**Data, Cloud & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=google&logoColor=8E75B2)
 
 </div>
 
 ---
 
-<h2 align="center">📡 Estudando</h2>
+<h2 align="center">04 / Selected Projects</h2>
+
+### [01 — Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)
+
+**Automation · Python · Artificial Intelligence**
+
+Sistema de automação para coleta e análise de oportunidades profissionais.
+
+- Web scraping e processamento de informações.
+- Personalização de currículos com apoio de IA.
+- Persistência de dados com SQLite.
+- Automação de rotinas com GitHub Actions.
+
+`Python` `SQLite` `Gemini` `GitHub Actions`
+
+### [02 — App CIC](https://github.com/yago-silva-ads/app-cic)
+
+**Mobile Development · Product Experience**
+
+Aplicação voltada à rastreabilidade de produtos e à gestão no varejo.
+
+- Desenvolvimento mobile multiplataforma.
+- Identificação por GTIN-13 e QR Code.
+- Integração com Supabase.
+- Exploração de recursos de IA para apoio à precificação.
+
+`Flutter` `Dart` `Supabase`
+
+### [03 — Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)
+
+**Full-Stack Development · Financial Software**
+
+Sistema financeiro com frontend e backend separados.
+
+- Backend com Java e Spring Boot.
+- Interface web com Angular.
+- Integração com APIs REST.
+- Estruturação de dados financeiros.
+
+`Java` `Spring Boot` `Angular` `SQL`
+
+### [04 — Porto House](https://porto-house-acabamentos.vercel.app/)
+
+**Web Design · Client Project**
+
+Site desenvolvido e publicado para um cliente real.
+
+- Construção de interface responsiva.
+- Organização visual de produtos e conteúdo.
+- Aplicação de princípios de design web.
+- Publicação e disponibilização online.
+
+`HTML` `CSS` `Tailwind CSS` `Vercel`
+
+---
+
+<h2 align="center">05 / Research & Accessibility</h2>
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+**PICTA 2026 — Acessibilidade em Smart Homes**
+
+</div>
+
+Pesquisa científica sobre acessibilidade em interfaces de automação residencial.
+
+- Avaliação de interfaces de plataformas como Home Assistant e openHAB.
+- Utilização de Axe DevTools, Lighthouse e WAVE.
+- Testes manuais com navegação por teclado e leitor de tela NVDA.
+- Referências às diretrizes WCAG 2.2 e eMAG 3.1.
+
+**Focus:** Accessibility · Quality Assurance · Human-Computer Interaction · IoT
+
+---
+
+<h2 align="center">06 / Education & Certifications</h2>
+
+**Centro Universitário Senac**
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+- Pesquisa científica pelo PICTA 2026.
+- Participação em projeto de extensão universitária com o App CIC.
+
+**Ford Enter — SENAI & Rede Cidadã**
+
+Formação complementar em tecnologia e desenvolvimento profissional.
+
+**Cursos e certificações registrados**
+
+- Análise de Dados com Python — Centro Universitário Senac.
+- Fundamentos de UX — Centro Universitário Senac.
+- Internet das Coisas (IoT) — Centro Universitário Senac.
+- Database Design — Oracle Database Academy.
+- Database Foundations — Oracle Database Academy.
+- Letramento Digital — Centro Universitário Senac.
+- Desenvolvedor de Sistemas de Tecnologia da Informação — Centro Universitário Senac.
+- Google AI Essentials — formação complementar.
+
+---
+
+<h2 align="center">07 / Currently Exploring</h2>
+
+<div align="center">
+
+| Área | Objetivo |
+|:---|:---|
+| Python | Algoritmos, automação e análise de dados |
+| UI/UX | Prototipação, usabilidade e design systems |
+| 3D Web | Three.js, Spline e experiências imersivas |
+| Motion Design | Animações e microinterações |
+| Software Quality | Testes automatizados e boas práticas |
+| Cloud | Fundamentos de AWS e Azure |
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Projetos em Produção</h2>
+<h2 align="center">08 / GitHub Analytics</h2>
 
 <div align="center">
 
-| | Projeto | O que é | Tech |
-|:---:|:---|:---|:---:|
-| 🎯 | **[Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)** | Bot com 10 scrapers + CV gerado por IA. Produção diária | `Python` `Gemini` |
-| 📱 | **[App CIC](https://github.com/yago-silva-ads/app-cic)** | Rastreabilidade com IA preditiva.  | `Flutter` `Supabase` |
-| 💰 | **[Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)** | SaaS financeiro com dashboard | `Spring` `Angular` |
-| 🏪 | **[Porto House](https://porto-house-acabamentos.vercel.app)** | Site entregue pra cliente real | `Tailwind` `Vercel` |
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=yago-silva-ads&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=f8fafc&rank_icon=github" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&langs_count=8&hide=HTML&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=f8fafc" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=yago-silva-ads&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&dates=a78bfa" />
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Troféus</h2>
+<h2 align="center">09 / Let's Connect</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yago-silva-ads&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=f8fafc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=f8fafc&langs_count=8" />
+Aberto a oportunidades de estágio, desenvolvimento de software, Python, UI/UX, QA e projetos criativos com tecnologia.
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yago-silva-ads&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&dates=8b5cf6" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yago-silva-ads&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=12&column=7" />
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
 
 </div>
 
----
-
-<h2 align="center">🎓 Background</h2>
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | **ADS — Senac** *(3º semestre · 2027)* |
-| 🔬 | **PICTA 2026** — Acessibilidade em Smart Homes |
-| 🤖 | **Google AI Essentials** |
-| 🏅 | **40+ certs DIO** — Spring, Security, GoF, SOLID, IA |
-| ✈️ | Ex-LATAM · Ex-Nike · Ex-Rappi |
-| 💼 | **1 cliente atendido** — Porto House |
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar%3F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/yago-silva-ads/yago-silva-ads/main/spider_noir.png" width="45" />
-
-<sub>*"Whatever dimension I'm in, I've got work to do."*</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:17132b,100:0d1117&height=110&section=footer" />
